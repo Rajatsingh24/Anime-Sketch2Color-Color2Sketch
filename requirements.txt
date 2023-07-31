@@ -1,0 +1,4 @@
+opencv-python==4.8.0.74
+opencv-transforms==0.0.6
+torch==2.0.1
+gradio==3.38.0
