@@ -14,9 +14,9 @@ The most of the part for this model are taken from [this GitHub Repo](https://gi
 <img src="./examples/Screenshot (112).png" alt="image" width="500"/>
 <img src="./examples/Screenshot (113).png" alt="image" width="500"/>
 
-
-
-
+### For Pretrained Weights 
+* go to test.ipynb file.
+* You can download the weights from ***Loading dataset*** section.
 ## Created BY :
 
 Rajat Singh 
